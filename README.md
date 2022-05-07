@@ -13,3 +13,25 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
 - Mute option
 
 ### Areas
+- 6 areas for MIDI notes triggers :
+          - Mute Button to disable MIDI out of the selected person or object
+          - MIDI note selector
+          - Velocity and Duration control of the MIDI note
+          - Button to enable Random mode
+          - Speed control of random rate
+          - Random notes choice menu
+
+- Scales menu
+
+- Scanner areas :
+         - Start/Stop scanner shift
+         - Speed control of the scan bar
+         - Choose horizontal or vertical scan
+         - Mapping option of the scan shift (between 0-1)
+         
+- Preview window automatically adjusts according to scene size
+
+- Viewer toggle allows you to see the scene larger.
+
+### Output
+- OSC output to touchdesigner
