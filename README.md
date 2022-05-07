@@ -34,4 +34,11 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
 - Viewer toggle allows you to see the scene larger.
 
 ### Output
-- OSC output to touchdesigner
+- OSC output to touchdesigner for more advance visuals project to the floor
+
+#### USE
+This tool was made to be used as a creative instrument in Ableton Live. Do not hesitate to experiment with the plugin in order to make your project and composition idea interactive. And above all have fun !
+
+##### Credits
+
+Designed & developped by Guillaume BREVET & THEORIZ
