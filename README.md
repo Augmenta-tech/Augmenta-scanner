@@ -28,6 +28,7 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
          - Speed control of the scan bar
          - Choose horizontal or vertical scan
          - Mapping option of the scan shift (between 0-1)
+         - Controle with the mouse the slider to move the scan bar as you want
          
 - Preview window automatically adjusts according to scene size
 
