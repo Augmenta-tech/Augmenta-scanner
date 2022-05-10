@@ -24,6 +24,7 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
 - Scales menu
 
 - Scanner areas :
+
          - Start/Stop scanner shift
          - Speed control of the scan bar
          - Choose horizontal or vertical scan
