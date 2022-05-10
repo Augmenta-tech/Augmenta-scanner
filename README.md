@@ -43,4 +43,4 @@ This tool was made to be used as a creative instrument in Ableton Live. Do not h
 
 ## Credits
 
-Designed & developped by Guillaume BREVET & THEORIZ
+Designed & developped by Guillaume BREVET & AUGMENTA
