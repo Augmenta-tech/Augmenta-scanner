@@ -14,6 +14,7 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
 
 ### Areas
 - 6 areas for MIDI notes triggers :
+
           - Mute Button to disable MIDI out of the selected person or object
           - MIDI note selector
           - Velocity and Duration control of the MIDI note
@@ -21,9 +22,14 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
           - Speed control of random rate
           - Random notes choice menu
 
-- Scales menu
+- Scales menu : 
+
+          - Min
+          - Maj
+          - Sacles selector
 
 - Scanner areas :
+
          - Start/Stop scanner shift
          - Speed control of the scan bar
          - Choose horizontal or vertical scan
