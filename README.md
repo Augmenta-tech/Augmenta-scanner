@@ -27,7 +27,7 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
           - Min
           - Maj
           - Scales selector
-          - Octave selector (When the oct1-4 mode is selected, the octave of notes triggered by persons/objects depends on their position on the bar. If they are down  the octave will be low and the higher they go the higher the octave increases.
+          - Octave selector (When the oct1-4 mode is selected, the octave of notes triggered by persons/objects depends on their position on the bar. If they are down  the octave will be low and the higher they go the higher the octave increases).
         
  All feature of the scales menu working only when random mode is activated.
 
