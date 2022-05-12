@@ -2,7 +2,7 @@
 
 Augmenta Scanner is an Ableton M4L Plugin to produce music from interactions between scan bar and persons or objects movments. This tool use XY coordinate of differents sources in order to interact with the scan position. Use the Augmenta tracking system or any XY OSC coordinates to run the plugin.
 
-![Alt Text]<img src="https://media.giphy.com/media/UhJZGV09ZrnrKlV8hz/giphy.gif" width="40" height="40" /> 
+<img src="https://media.giphy.com/media/UhJZGV09ZrnrKlV8hz/giphy.gif" width="400" height="100" /> 
 
 ## Features
 
