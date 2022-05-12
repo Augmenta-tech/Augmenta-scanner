@@ -58,9 +58,7 @@ This tool was made to be used as a creative instrument in Ableton Live. Do not h
 IP and port outputs to touchdesigner are accessible with the plugin. They send the scanner movement data, and the people passing information on the scan bar. 
 You can use the touchdesigner example session available in this gituhb.
 
-<p align="center">
 ![TDMovieOut 0](https://user-images.githubusercontent.com/104997324/168085144-4439c682-2fae-4081-915c-b87bc621d915.gif)
-</p>
 
 ## Credits
 
