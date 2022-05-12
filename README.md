@@ -50,6 +50,11 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
 ## USE
 This tool was made to be used as a creative instrument in Ableton Live. Do not hesitate to experiment with the plugin in order to make your project and composition idea interactive. Have fun !
 
+## TOUCHDESIGNER
+
+IP and port outputs to touchdesigner are accessible with the plugin. They send the scanner movement data, and the people passing information on the scan bar. 
+You can use the touchdesigner example session available in this gituhb.
+
 ## Credits
 
 Designed & developped by Guillaume BREVET & AUGMENTA
