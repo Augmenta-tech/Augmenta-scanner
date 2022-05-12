@@ -4,7 +4,7 @@ Augmenta Scanner is an Ableton M4L Plugin to produce music from interactions bet
 
 ## Features
 
-Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI note when persons or objects passes over the scan bar.
+Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI note when persons or objects passes over the scan bar. the plugin has been developed to be drag and drop just once in the ableton session.
 
 ### Input
 - OSC Input
