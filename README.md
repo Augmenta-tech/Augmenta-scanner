@@ -1,6 +1,6 @@
 # Augmenta-scanner
 
-Augmenta Scanner is an Ableton live plugin (Max4Live) to create music in interaction with performers or objects in space tracked with Augmenta.
+Augmenta Scanner is an [Ableton live](https://www.ableton.com/) plugin ([Max4Live](https://maxforlive.com/) to create music in interaction with performers or objects in space tracked with [Augmenta](https://augmenta.tech).
 A bar is scanning the space and triggers midi notes when passing over a performer. The plugin receives Augmenta OSC data as inputs and produces midi notes and mappings for Ableton live.
 
 ![Augmenta Scanner](https://user-images.githubusercontent.com/104997324/168056622-5e7acc6c-66e2-4b23-a064-c0edcf1ed99f.gif)
@@ -9,8 +9,8 @@ A bar is scanning the space and triggers midi notes when passing over a performe
 ## How to use
 
 - Download the files from this repository or from https://maxforlive.com/
-- Drag'n drop the scanner plugin to Ableton session in a MIDI track
-- Add your port to receive Augmenta osc data
+- Drag'n drop the scanner plugin to [Ableton live](https://www.ableton.com/) session in a MIDI track
+- Add your port to receive [Augmenta](https://augmenta.tech) osc data
 - Create music with the scan bar and objects available
 
 To produces Augmenta data, you can use the simulator available here : https://github.com/Augmenta-tech/Augmenta-Simulator/releases
@@ -19,9 +19,9 @@ Note : The plugin has been developed to be used once per Ableton session. If you
 
 ## Features
 
-- Augmenta osc input
+- [Augmenta](https://augmenta.tech) osc input
 - 6 persons simultaneous tracking or all persons with the same behavior (red target)
-- Simulate Augmenta data with Augmenta Simulator
+- Simulate Augmenta data with [Augmenta Simulator](https://github.com/Augmenta-tech/Augmenta-Simulator/releases)
 - Follow tempo option for the scanner
 - Osc output to send scanner bar to other softwares (see Touch designer example)
 
@@ -65,7 +65,7 @@ Note : The plugin has been developed to be used once per Ableton session. If you
 The scanner bar can be sent to other software with the OSC Output.
 
 How to use
-- Start Touch Designer example
+- Start [Touch Designer](https://derivative.ca/) example
 - In Augmenta scanner : Add the ip and port output to Touch Designer
 - In Augmenta simulator or Fusion : Send Augmenta data to Touch Designer
 
