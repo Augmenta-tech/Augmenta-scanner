@@ -1,21 +1,31 @@
 # Augmenta-scanner
 
-Augmenta Scanner is an Ableton M4L Plugin to produce music from interactions between scan bar and persons or objects movments. This tool use XY coordinate of differents sources in order to interact with the scan position. Use the Augmenta tracking system or any XY OSC coordinates to run the plugin.
+Augmenta Scanner is an Ableton live plugin (Max4Live) to create music in interaction with performers or objects in space tracked with Augmenta.
+A bar is scanning the space and triggers midi notes when passing over a performer. The plugin receives Augmenta OSC data as inputs and produces midi notes and mappings for Ableton live.
 
 ![Augmenta Scanner](https://user-images.githubusercontent.com/104997324/168056622-5e7acc6c-66e2-4b23-a064-c0edcf1ed99f.gif)
 
 
+## How to use
+
+- Download the files from this repository or from https://maxforlive.com/
+- Drag'n drop the scanner plugin to Ableton session in a MIDI track
+- Add your port to receive Augmenta osc data
+- Create music with the scan bar and objects available
+
+To produces Augmenta data, you can use the simulator available here : https://github.com/Augmenta-tech/Augmenta-Simulator/releases
+
+Note : The plugin has been developed to be used once per Ableton session. If you put several plugins in the session, latency and synchronization problems can occur.
+
 ## Features
 
-Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI note when persons or objects passes over the scan bar. The plugin has been developed to be drag and drop just once in the ableton session. If you put several in the session, latency and synchronization problems occur.
+- Augmenta osc input
+- 6 persons simultaneous tracking or all persons with the same behavior (red target)
+- Simulate Augmenta data with Augmenta Simulator
+- Follow tempo option for the scanner
+- Osc output to send scanner bar to other softwares (see Touch designer example)
 
-### Input
-- OSC Input
-- 6 persons simultaneous tracking
-- Simulate with Augmenta Simulator
-- Mute option
-
-### Areas
+## Interface
 - 6 areas for MIDI notes triggers :
 
           - Mute Button to disable MIDI out of the selected person or object
@@ -50,16 +60,19 @@ Drag'n drop the scanner plugin to Ableton session in MIDI track and trigger MIDI
 ### Output
 - OSC output to touchdesigner for more advance visuals project to the floor
 
-## USE
-This tool was made to be used as a creative instrument in Ableton Live. Do not hesitate to experiment with the plugin in order to make your project and composition idea interactive. Have fun !
+## TouchDesigner example
 
-## TouchDesigner
+The scanner bar can be sent to other software with the OSC Output.
 
-IP and port outputs to touchdesigner are accessible with the plugin. They send the scanner movement data, and the people passing information on the scan bar. 
-You can use the touchdesigner example session available in this gituhb.
+How to use
+- Start Touch Designer example
+- In Augmenta scanner : Add the ip and port output to Touch Designer
+- In Augmenta simulator or Fusion : Send Augmenta data to Touch Designer
+
+Enjoy the visuals :)
 
 ![TDMovieOut 0](https://user-images.githubusercontent.com/104997324/168085144-4439c682-2fae-4081-915c-b87bc621d915.gif)
 
 ## Credits
 
-Designed & developped by Guillaume BREVET & AUGMENTA
+Designed & developped by Guillaume BREVET, David-Alexandre CHANEL and Romain CONSTANT + the Augmenta team
